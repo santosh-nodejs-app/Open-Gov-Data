@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#85be00</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="splash_bg">#203e7c</color>
+    <color name="colorBackArr">#FFFFFF</color>
+
+    <color name="aqi_level_1">#0b9444</color>
+    <color name="aqi_level_2">#ffde16</color>
+    <color name="aqi_level_3">#f7941e</color>
+    <color name="aqi_level_4">#ed1c24</color>
+    <color name="aqi_level_5">#773cbe</color>
+    <color name="aqi_level_6">#bf1e2e</color>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Open Gov. Data</string>
+    <string name="app_full_name">Open Government Data</string>
+    <string name="title_activity_splash">Open Government Data</string>
+    <string name="app_internet_err">Error : No Internet access</string>
+    <string name="title_aqi">Real time Air Quality Index</string>
+    <string name="title_search_aqi">AQI - Search</string>
+    <string name="aqi_level1">Good</string>
+    <string name="aqi_level2">Moderate</string>
+    <string name="aqi_level3">Unhealthy for Sensitive Groups</string>
+    <string name="aqi_level4">Unhealthy</string>
+    <string name="aqi_level5">Very Unhealthy</string>
+    <string name="aqi_level6">Hazardous</string>
+    <string name="title_activity_aqisearch">AQISearch</string>
+</resources>
